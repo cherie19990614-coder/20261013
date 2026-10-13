@@ -1,0 +1,16 @@
+question,opt0,opt1,opt2,opt3,answer
+"1. 在 p5.js 程式生命週期中，哪一個函式只會在啟動時執行一次？","A) draw() - 每秒重複執行","B) setup() - 初始設定與建立畫布","C) start() - 非 p5.js 內建函式","D) create() - 非初始控制函式",1
+"2. 若要自訂視覺畫布的大小尺寸，應該呼叫哪一個繪製指令？","A) setCanvas()","B) makeCanvas()","C) createCanvas()","D) initCanvas()",2
+"3. 欲設定封閉幾何圖形（如圓形、矩形）內部的填滿色彩，請選出正確指令：","A) fill() - 設定圖形填滿色彩","B) color() - 建立顏色物件","C) background() - 清空並填滿背景","D) stroke() - 繪製邊框線條色彩",0
+"4. 在互動視覺創作中，哪一個內建系統變數可即時取得滑鼠當前的 X 軸座標？","A) mousePos.x","B) xMouse","C) mouseX","D) getMouseX()",2
+"5. 若需要在畫布上繪製出標準的正圓形或橢圓形，應選用哪一個繪圖函式？","A) rect() - 繪製四角矩形","B) circle() - 繪製標準圓形","C) line() - 繪製直線段","D) triangle() - 繪製三邊三角形",1
+"6. 哪一個 p5.js 變數可用來取得或設定畫布的寬度尺寸？","A) windowWidth","B) canvasWidth","C) width","D) screenWidth",2
+"7. 想要在畫布上隨機產生一個數值，應該使用哪一個內建數學函式？","A) rand()","B) random()","C) math.random()","D) getRandom()",1
+"8. 哪一個函式可用來設定圖形外框線條的粗細？","A) strokeWeight()","B) strokeWidth()","C) lineWidth()","D) borderSize()",0
+"9. 當滑鼠被按下時，p5.js 會自動執行哪一個預先定義好的事件函式？","A) mouseClick()","B) pressMouse()","C) mousePressed()","D) onMousePress()",2
+"10. 想要在控制台（Console）印出除錯訊息或數值，應使用哪個指令？","A) print()","B) console.log()","C) 兩者皆可","D) write()",2
+"11. 哪一個變數可以取得畫布當前的高度尺寸？","A) windowHeight","B) height","C) canvasHeight","D) screenHeight",1
+"12. 繪製矩形 rect(x, y, w, h) 時，預設的定位點（x, y）位於矩形的哪個位置？","A) 中心點 (CENTER)","B) 左上角 (CORNER)","C) 右下角","D) 右上角",1
+"13. 想要清除背景並指定新的底色，通常在 draw() 的最上方呼叫哪個函式？","A) clearBackground()","B) background()","C) colorBackground()","D) resetBackground()",1
+"14. 哪一個函式可以用來繪製一條直線段？","A) line()","B) drawLine()","C) strokeLine()","D) segment()",0
+"15. 想要將圖形或畫布以指定角度進行旋轉，應呼叫哪一個變換函式？","A) spin()","B) rotate()","C) turn()","D) angle()",1
